@@ -20,6 +20,6 @@ public class AppTest {
 
     @Test
     public void getVersionReturns() throws Exception {
-        assertEquals("1.0.0-SNAPSHOT", App.getVersion());
+        assertEquals("2.0.0-SNAPSHOT", App.getVersion());
     }
 }
